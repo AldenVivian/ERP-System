@@ -1,0 +1,33 @@
+body {
+    background: #f5f0f0;
+}
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #0f0101;
+    font-size: 60px;
+    font-family: 'Righteous', cursive;
+    letter-spacing: 7px;
+}
+.clockin {
+    position: absolute;
+    top: 70%;
+    left: 30%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #0f0101;
+    font-size: 20px;
+    font-family: 'Righteous', cursive;
+    letter-spacing: 7px;
+}
+.clockout {
+    position: absolute;
+    top: 70%;
+    left: 70%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #0f0101;
+    font-size: 20px;
+    font-family: 'Righteous', cursive;
+    letter-spacing: 7px;
+}
